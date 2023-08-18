@@ -1,11 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b35c85a-4572-48fa-b0c1-df064dfc9969" name="Changes" comment="" />
+    <list default="true" id="4b35c85a-4572-48fa-b0c1-df064dfc9969" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/card/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/card/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/card/Hole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/card/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/card/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/2C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/2D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/2H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/2S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/3C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/3H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/3S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/4C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/4D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/4H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/4S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/5C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/5D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/5H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/5S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/6C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/6D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/6H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/6S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/7C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/7D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/7H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/7S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/8C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/8D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/8H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/8S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/9C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/9D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/9H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/9S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/AC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/AD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/AH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/AS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/JC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/JD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/JH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/JS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/KC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/KD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/KH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/KS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/QC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/QD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/QH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/QS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/TC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/TD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/TH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/TS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2UAYPAL63KTydNVvw6LEv1YbgGI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,10 +94,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jared/OneDrive - UNBC/Personal/Poker/Poker/src/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jared\OneDrive - UNBC\Personal\Poker\Poker\src\resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,7 +117,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692383828267</updated>
+      <workItem from="1692383829276" duration="2180000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
